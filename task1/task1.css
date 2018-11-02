@@ -1,0 +1,43 @@
+.container{
+    width: auto;
+    padding-top: 4%;
+}
+.row{
+    margin-left: 4%;
+    margin-bottom: 4%;
+    width: 28%;
+    height: 0;
+    background-color: rgb(255,166,0);
+    float: left;
+    border-radius: 5%;
+    padding-bottom: 28%;
+}
+.clear{
+    clear: both;
+}
+
+.btn-container{
+    padding: 10px;
+    text-align: center;
+
+}
+
+.btn{
+    color: rgb(255,166,0);
+    border: rgb(255,166,0) 1px solid;
+    background-color: #ffffff;
+    width: 96%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn:hover{
+    background-color: rgb(255,166,0);
+    color: #ffffff;
+}
+
+.btn:focus{
+    outline: none;
+}
